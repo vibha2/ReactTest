@@ -1,0 +1,25 @@
+.product-container
+{
+    display: flex;
+    flex-direction: column;
+    width:30%;
+    padding: 2rem;
+    color:black;
+    border: 1px solid grey;
+}
+
+.product-body
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-list
+{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 2rem;
+    color: pink;
+    border: 1px solid grey;
+}
