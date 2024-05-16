@@ -1,0 +1,5 @@
+Create a new react app in the local environment.
+Get product data from the following API  https://dummyjson.com/products
+List all products using Bootstrap UI with product photo.
+Product list should have option to change grid/list view
+Give a option to load numbers of product per page Limit 10, 20, 50 (use ->  https://dummyjson.com/products?limit=10)
